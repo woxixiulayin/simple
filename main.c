@@ -1,0 +1,6 @@
+extern foo();
+int main()
+{
+	foo();
+	return 0;
+}
